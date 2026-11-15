@@ -1,0 +1,10 @@
+const Post = () => {
+  return (
+    <div>
+      <h3 style={{backgroundColor:"#FCC6BB", textAlign:"center", padding:"20px", color:"white"}}>the firts article</h3>
+      <p style={{backgroundColor:"#FEEBE7", padding:"20px", textAlign:"justify"}}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, cupiditate corporis. Doloribus maiores ex asperiores harum, ipsum unde placeat aperiam alias labore sequi autem omnis, minus dolores reiciendis in ea similique rerum dolorum laudantium, est necessitatibus dolor quae officiis quia? Tempore illo placeat harum asperiores sit deserunt explicabo? Sit quia blanditiis reprehenderit aut aperiam, libero inventore iure, error commodi placeat suscipit, veritatis amet voluptatum minima voluptates laudantium. Excepturi veritatis quo omnis ea repudiandae deserunt ab reiciendis voluptatum? Molestias, expedita ut. Obcaecati ad quis necessitatibus itaque eius dolor veritatis non nisi sequi laudantium deserunt accusantium, quisquam impedit voluptas quibusdam, iusto, in cupiditate vel dolores natus assumenda saepe. Tempora laudantium labore dicta modi odit magni illum similique asperiores possimus quidem hic, totam aut molestias doloribus nisi voluptatibus cumque praesentium suscipit, est beatae ipsa distinctio dolore voluptas nostrum. Pariatur delectus laborum ex eaque officiis molestias placeat nemo explicabo earum, nobis iusto voluptates fuga possimus totam quod dolorem veritatis, corrupti ut, doloribus nam. Commodi cum impedit autem alias illum ea, possimus nesciunt mollitia velit inventore eius minima optio facere ipsam distinctio molestias natus nam, delectus nisi? Possimus rerum aperiam alias dolores facilis laboriosam nobis ut quisquam! Earum voluptas rem vitae? Iste voluptatibus sequi beatae.</p>
+    </div>
+  )
+}
+
+export default Post;
